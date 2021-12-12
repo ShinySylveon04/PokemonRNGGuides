@@ -27,20 +27,15 @@ Important: Before starting the RNG, you will need to add your TID/SID to a profi
 
 4.The most common method to advance to your target is to fly to your home in Twinleaf Town, and go upstairs to your room. Here, advances increase at a stable rate of +1. This makes it easy to hit your target without missing it. Here, you can take steps until the step counter is at 1. Here, you can save your game and restart, so you can return easily if you mess up. If you want to use another method to advance, you may use that.
 
-5. After you load your game back up, open up CaptureSight and go to the Main RNG screen this time. Press A immediately here to pause updates, so that your seeds do not change while you input. Make sure your advances is still at 0 as well. Here, there's a list of 4 seeds, seed 0, 1, 2, and 3 in order, each being 8 characters. However, there are only 2 seeds, seed 0 and seed 1. CaptureSight seeds and Pokefinder seeds are listed differently, so you will have to use the following way to convert the CaptureSight seeds into Pokefinder seeds:
-
-- PokeFinder Seed 0 : CaptureSight Seed 0 / CaptureSight Seed 1
-- Pokefinder Seed 1 : CaptureSight Seed 2 / CaptureSight Seed 3
-
 Generate the results. Find your target advance, and use all the methods to get close to hit.
 Once at the right advance, move your character. Some tips to be accurate : Move your character in the opposite direction of where they're standing, and use the stick and not the pad. 
 
-6. Once you input your seeds into Pokefinder, you can click generate, and use the filters to filter out the exact target you want to hit. Once you decide on an advance, you can start advancing towards it.
+5. Once you input your seeds into Pokefinder, you can click generate, and use the filters to filter out the exact target you want to hit. Once you decide on an advance, you can start advancing towards it.
 
 
-7. Make sure to unpause updates on CaptureSight if you haven't already, so that you can see your advances incrementing. At this point, you can press D-Pad Up so that you can control your game. Make sure to NOT move, otherwise you will generate your egg before you hit your target. If your target is fairly far away, you can use the Pokedex to advance quickly. Press X to open menu, and go to pokedex. You can hold left and right on your joystick to quickly scroll through the Pokedex, which advances your frames very quickly. You can also scroll down the Pokedex normally to advance at a slightly slower rate. Make sure not to overshoot your advances. 
+6. Make sure to unpause updates on CaptureSight if you haven't already, so that you can see your advances incrementing. At this point, you can press D-Pad Up so that you can control your game. Make sure to NOT move, otherwise you will generate your egg before you hit your target. If your target is fairly far away, you can use the Pokedex to advance quickly. Press X to open menu, and go to pokedex. You can hold left and right on your joystick to quickly scroll through the Pokedex, which advances your frames very quickly. You can also scroll down the Pokedex normally to advance at a slightly slower rate. Make sure not to overshoot your advances. 
 
 
-8. Once you are close to your target, exit from the Pokedex and menu, and get ready to take a step. When CaptureSight displays your target advance, take a step. To make sure you actually take a step, use your left joystick instead of the DPad.
+7. Once you are close to your target, exit from the Pokedex and menu, and get ready to take a step. When CaptureSight displays your target advance, take a step. To make sure you actually take a step, use your left joystick instead of the DPad.
 
-9. Once you take your step, you can check if you have hit your advance successfully by going back to the Daycare tab of CaptureSight, and check that the Egg Seed is the same as your target. You can now freely go back to the Daycare and accept your egg. You can check again that you have hit your target successfully by checking the PID of the egg using the Party tab of CaptureSight to see if it matches with your target. 
+8. Once you take your step, you can check if you have hit your advance successfully by going back to the Daycare tab of CaptureSight, and check that the Egg Seed is the same as your target. You can now freely go back to the Daycare and accept your egg. You can check again that you have hit your target successfully by checking the PID of the egg using the Party tab of CaptureSight to see if it matches with your target. 
